@@ -1,2 +1,2 @@
-# my-first-depo
+# my-first-repo
 practice account for learning git
